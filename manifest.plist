@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://git.nextbetter.cn/dengsitian/dealer/Dealer.ipa</string>
+     <string>https://github.com/peterdst/Dealer/raw/master/Dealer.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://git.nextbetter.cn/dengsitian/dealer/appIcon@180.png</string>
+     <string>https://github.com/peterdst/Dealer/raw/master/appIcon%40180.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://git.nextbetter.cn/dengsitian/dealer/appIcon@120.png</string>
+     <string>https://github.com/peterdst/Dealer/raw/master/appIcon%40120.png</string>
     </dict>
    </array>
    <key>metadata</key>
